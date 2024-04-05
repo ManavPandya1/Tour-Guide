@@ -1,0 +1,32 @@
+.bg-blue{
+    background-color:rgb(0, 0, 77);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,0.9);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: white; 
+    transition: width 0.3s ease;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover::before {
+    width: 100%;
+}
+
+
+
+
+

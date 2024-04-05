@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="images1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tourism-Management-System-Client-main/src/images/Montserrat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Tourism-Management-System-Client-main/src/images/webportal.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

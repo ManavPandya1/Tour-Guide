@@ -1,0 +1,17 @@
+.form-outline input:focus {
+    border-color: rgba(0, 0, 77, 0.9); 
+  }
+  
+  .btn {
+    background-color: rgba(0, 0, 77, 0.9);
+    color: white;
+  }
+  
+  .btn-bg-blue:hover {
+    background-color: rgba(0, 0, 77, 0.9);
+  }
+
+  #bgcolor1{
+    background: linear-gradient(to bottom, #EFD9C1, #F5E6D6, #A9CBD5, #7E7E7E, #444444);
+  }
+  
